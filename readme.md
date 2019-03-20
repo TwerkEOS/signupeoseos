@@ -62,4 +62,4 @@ If the MEMO comment format is incorrect, it will fail the entire transfer transa
 
 
 
-![img](https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png)**DappPub: Unleashing the power of DApps**
+![img](https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png)**TwerkEOS: Twerking on the Blockchain**
