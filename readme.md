@@ -60,17 +60,6 @@ If the MEMO comment format is incorrect, it will fail the entire transfer transa
 
 ------
 
-### Contact us
 
-If you have any feedback or question regarding the registration process or source code, please feel free to reach us.
 
-```
-@ Official site
-@ Discord
-@ Telegram
-@ Reddit
-@ Medium
-@ Github
-```
-
-![img](https://cdn-images-1.medium.com/max/800/1*tYygDZBdBWzm1hm_sajFMA.png)**DappPub: Unleashing the power of DApps**
+![img](https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png)**DappPub: Unleashing the power of DApps**
